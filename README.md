@@ -16,10 +16,9 @@ A backend-focused full stack developer passionate about building real-world soft
 ## 🚀 About Me
 
 - 🔭 Currently building **FIFA WC 2026 Predictor** – a smart Machine Learning Prediction project
-- 🧩 Developing a **Productivity Chrome Extension**  
 - 💻 Strong in **Java & MERN Stack**  
 - 🧠 Consistently practicing **Data Structures & Algorithms**  
-- 🎯 Aspiring **Software Engineer / Full Stack Developer**
+- 🎯 Aspiring **Full Stack Developer / DevOps**
 
 ---
 
