@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi %20,%20 I'm %Samarpan% A% 👋&fontSize=48&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%20,%20I'm%20Samarpan%20👋&fontSize=48&fontColor=ffffff" />
 </p>
 
 <p align="center" style="margin-top:-80px;">
@@ -9,6 +9,7 @@
 <p align="center">
 A backend-focused full stack developer passionate about building real-world software and improving problem-solving skills 🚀
 </p>
+
 
 ---
 
