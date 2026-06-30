@@ -66,7 +66,7 @@ A backend-focused full stack developer passionate about building real-world soft
 <td align="center" width="220">
 
 ### 🧩 Concepts  
-<img src="https://skillicons.dev/icons?i=docker" /> 
+<img src="https://skillicons.dev/icons?i=docker,linux" /> 
 
 </td>
 </tr>
