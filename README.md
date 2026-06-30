@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="margin-top:-80px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+MERN;DSA+Enthusiast;Building+scalable+real-world+applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+MERN;DSA+Enthusiast;Building+scalable+real-world+applications" />
 </p>
 
 <p align="center">
