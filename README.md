@@ -119,5 +119,5 @@ A backend-focused full stack developer passionate about building real-world soft
 </p>
 
 <p align="center">
-⭐ Building the future, one commit at a time
+⭐ Passion First. Success Next!
 </p>
