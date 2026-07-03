@@ -15,7 +15,7 @@ A backend-focused full stack developer passionate about building real-world soft
 
 ## 🚀 About Me
 
-- 🔭 Currently building **FIFA WC 2026 Predictor** – a smart Machine Learning Prediction project
+- 🔭 Currently learning **ServiceNow Sys Administrator** 
 - 💻 Strong in **Java & MERN Stack**  
 - 🧠 Consistently practicing **Data Structures & Algorithms**  
 - 🎯 Aspiring **Full Stack Developer / DevOps**
