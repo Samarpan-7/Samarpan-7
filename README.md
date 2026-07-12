@@ -36,7 +36,7 @@ A backend-focused full stack developer passionate about building real-world soft
 <td align="center" width="220">
 
 ### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 
 </td>
 
